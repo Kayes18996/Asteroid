@@ -1,0 +1,24 @@
+
+.footer-bottom{
+padding: 15px;
+}
+
+
+.feature-image{
+    height: 150px;
+
+}
+
+ a:hover{
+    color: goldenrod;
+    font-weight: 500;
+}
+
+.nav-link{
+    color: green;
+}
+
+.fa-search:hover{
+    
+    font-weight: 500;
+}
